@@ -19,6 +19,7 @@
 
 .project-card img {
   width: 100%;
+  transition: 0.5s;
 }
 
 .project-card img:hover {
