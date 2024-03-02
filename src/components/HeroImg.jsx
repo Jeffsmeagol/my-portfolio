@@ -10,7 +10,7 @@ export default function HeroImg() {
       </div>
       <div className="content">
         <p>HI, I AM A FRONT-END ENGINEER</p>
-        <h1>ReactJs Developer.</h1>
+        <h1>ReactJs/NextJs Developer.</h1>
         <div>
           <Link to="/project" className="btn">
             Projects

@@ -11,8 +11,7 @@ export default function AboutContent() {
         <h1>Who Am I?</h1>
         <p>
           I'm an enthusiastic software programmer that specializes in Front-end
-          web development, I use tools like HTML/CSS, Javascript, MUI, React,
-          Redux, e.t.c to create responsive secure websites for my clients.
+          web development, I use tools like HTML/CSS, Javascript, Typescript, Nextjs, Material UI, TailwindCSS Reactjs, Redux, e.t.c to create responsive secure websites for my clients.
         </p>
       </div>
       <div className="right">
