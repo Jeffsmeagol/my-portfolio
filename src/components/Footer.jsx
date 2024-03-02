@@ -44,9 +44,10 @@ export default function Footer() {
         <div className="right">
           <h4>About me</h4>
           <p>
-          I'm an enthusiastic software programmer that specializes in Front-end
-          web development, I use tools like HTML/CSS, Javascript, MUI, React,
-          Redux, e.t.c to create responsive secure websites for my clients.
+            I'm an enthusiastic software programmer that specializes in
+            Front-end web development, I use tools like HTML/CSS, Javascript,
+            Typescript, Nextjs, Material UI, TailwindCSS Reactjs, Redux, e.t.c
+            to create responsive secure websites for my clients.
           </p>
           <div className="social">
             <a
