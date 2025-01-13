@@ -7,7 +7,7 @@ const workData = [
     imgsrc: proj1,
     title: "An e-commerce website",
     text: "An e-commerce website built using Next.js, Material UI, and TypeScript from a Figma design.",
-    view: "https://https://next-assessment-trial.vercel.app/",
+    view: "https://next-assessment-trial.vercel.app/",
     source: "https://github.com/Jeffsmeagol/next-assessment",
   },
   {
